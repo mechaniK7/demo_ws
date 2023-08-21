@@ -1,0 +1,8 @@
+prefix=/home/nik/demo_ws/devel/.private/mavros_pub
+
+Name: mavros_pub
+Description: Description of mavros_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

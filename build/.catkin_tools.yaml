@@ -1,0 +1,6 @@
+devel_space: /home/nik/demo_ws/devel
+install: false
+install_space: /home/nik/demo_ws/install
+profile: default
+source_space: /home/nik/demo_ws/src
+workspace: /home/nik/demo_ws

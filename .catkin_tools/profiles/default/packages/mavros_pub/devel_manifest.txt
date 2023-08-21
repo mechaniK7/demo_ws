@@ -1,0 +1,6 @@
+mavros_pub
+/home/nik/demo_ws/devel/.private/mavros_pub/cmake.lock /home/nik/demo_ws/devel/./cmake.lock
+/home/nik/demo_ws/devel/.private/mavros_pub/lib/mavros_pub/pub_zero_run /home/nik/demo_ws/devel/lib/mavros_pub/pub_zero_run
+/home/nik/demo_ws/devel/.private/mavros_pub/lib/pkgconfig/mavros_pub.pc /home/nik/demo_ws/devel/lib/pkgconfig/mavros_pub.pc
+/home/nik/demo_ws/devel/.private/mavros_pub/share/mavros_pub/cmake/mavros_pubConfig.cmake /home/nik/demo_ws/devel/share/mavros_pub/cmake/mavros_pubConfig.cmake
+/home/nik/demo_ws/devel/.private/mavros_pub/share/mavros_pub/cmake/mavros_pubConfig-version.cmake /home/nik/demo_ws/devel/share/mavros_pub/cmake/mavros_pubConfig-version.cmake

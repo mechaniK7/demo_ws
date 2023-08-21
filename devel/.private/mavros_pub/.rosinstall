@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nik/demo_ws/devel/.private/mavros_pub/setup.sh

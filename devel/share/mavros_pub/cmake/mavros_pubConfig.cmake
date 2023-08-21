@@ -1,0 +1,1 @@
+/home/nik/demo_ws/devel/.private/mavros_pub/share/mavros_pub/cmake/mavros_pubConfig.cmake

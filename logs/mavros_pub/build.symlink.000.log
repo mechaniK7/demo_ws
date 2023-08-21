@@ -1,0 +1,3 @@
+Symlinking /home/nik/demo_ws/devel/lib/pkgconfig/mavros_pub.pc
+Symlinking /home/nik/demo_ws/devel/share/mavros_pub/cmake/mavros_pubConfig.cmake
+Symlinking /home/nik/demo_ws/devel/share/mavros_pub/cmake/mavros_pubConfig-version.cmake
